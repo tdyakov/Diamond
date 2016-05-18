@@ -60,6 +60,8 @@ namespace Diamond
                     Console.WriteLine();
                 }
             }
+			
+			Console.WriteLine("Change1");
         }
     }
 }
